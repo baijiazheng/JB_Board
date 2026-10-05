@@ -1,0 +1,11 @@
+# 立创EDA / KiCad 临时与备份文件
+*.epro
+*-backup*
+*.bak
+*~$*
+# 系统
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+# 注意：Gerber/BOM 的 .zip / .xlsx 是正式产物，不要忽略
